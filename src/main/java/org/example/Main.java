@@ -42,6 +42,7 @@ public class Main {
 }
 
 
+
 //        boolean isActive = true;
 //        char initial = 'A';
 //        byte age = 30;
